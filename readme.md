@@ -13,12 +13,13 @@ STATA is used to conduct the analysis.
 
 #Dataset description
 
-![Distribution](data/demographic_description.png)
+<img src="data/demographic_description.png" alt="Demographic desciption" width="200"/>
+
 
 ![NYHA class distribution](data/NYHA_class_distribution.png)
 
 
-#Dataset transformations
+#Dataset preparation
 
 ![transformations](data/transformation.png)
 
