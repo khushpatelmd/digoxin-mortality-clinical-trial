@@ -11,7 +11,7 @@ STATA is used to conduct the analysis.
 
 <hr />
 
-#Dataset description
+# Dataset description
 
 <img src="data/demographic_description.png" alt="Demographic desciption"/>
 
@@ -20,18 +20,18 @@ STATA is used to conduct the analysis.
 
 <hr />
 
-#Dataset preparation
+# Dataset preparation
 
 ![transformations](data/transformation.png)
 
 <hr />
 
-#Code
+# Code
 
 STATA do-file with detailed comments used for the analysis is present in code/digoxin_analysis.do
 
 <hr />
 
-#How to cite
+# How to cite
 
 Standard STATA code used no citations required.
