@@ -5,7 +5,7 @@ STATA is used to conduct the analysis.
 
 # Table Of Contents
 -  [Dataset description](#Dataset-description)
--  [Dataset preparation](#Dataset preparation)
+-  [Dataset preparation](#Dataset-preparation)
 -  [Code](#Code)
 -  [How to cite](#How-to-cite)
 
@@ -18,16 +18,19 @@ STATA is used to conduct the analysis.
 
 ![NYHA class distribution](data/NYHA_class_distribution.png)
 
+<hr />
 
 #Dataset preparation
 
 ![transformations](data/transformation.png)
 
+<hr />
 
 #Code
 
 STATA do-file with detailed comments used for the analysis is present in code/digoxin_analysis.do
 
+<hr />
 
 #How to cite
 
