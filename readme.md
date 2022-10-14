@@ -5,24 +5,27 @@ STATA is used to conduct the analysis.
 
 # Table Of Contents
 -  [Dataset description](#Dataset-description)
--  [How to run the code](#How-to-run)
--  [Code structure](#Code-structure)
--  [Requirements](#Requirements)
+-  [Dataset preparation](#Dataset preparation)
+-  [Code](#Code)
 -  [How to cite](#How-to-cite)
 
 <hr />
 
-Dataset description
+#Dataset description
 
 ![Distribution](data/demographic_description.png)
 
+![NYHA class distribution](data/NYHA_class_distribution.png)
 
 
+#Dataset transformations
+
+![transformations](data/transformation.png)
 
 
+#Code
 
-
-
+STATA do-file with detailed comments used for the analysis is present in code/digoxin_analysis.do
 
 
 #How to cite
